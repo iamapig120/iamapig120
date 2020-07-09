@@ -1,4 +1,10 @@
-### Hi there 👋
+### 打招呼，问好 👋
+
+你好，这里是手柄
+
+除了前端的基础之外，几乎什么都不会的，丢人的计算机科学学生。
+
+祝您能够在我的仓库的中找到您所需要的内容。
 
 <!--
 **iamapig120/iamapig120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
